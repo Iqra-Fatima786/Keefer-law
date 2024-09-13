@@ -1,0 +1,531 @@
+.contact h1{
+    font-size: 43px;
+    position:relative;
+    bottom:20px;
+    /* word-spacing: 100px; */
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.main{
+    display:flex;
+    
+}
+.contact{
+    margin-left: 450px;
+}
+.navigation{
+    /* position:relative; */
+    /* right: 300px; */
+    background-color: maroon;
+    padding:20px;
+    font-size: 20px;
+    
+}
+.sample{
+    display: flex;
+    align-items: center;
+}
+.block{
+    padding: 20px;
+    position:relative;
+    left:100px;
+    /* width: 100px; */
+}
+.block2{
+    position: relative;
+    left: 100px;
+    
+}
+.block2 img{
+    /* width: 100%; */
+}
+.one{
+    position: absolute;
+    top:8px;
+    left:5px;
+    border: 1px solid maroon;
+    padding:5px;
+    background-color: maroon;
+    color:white;
+}
+.two{
+    position: absolute;
+    top:8px;
+    right:5px;
+}
+.two h4{
+    position:relative;
+    left:75px;
+    bottom:25px;
+    font-size:22px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.two p{
+    position: relative;
+    right:30px;
+    bottom:40px;
+}
+.three{
+    position: absolute;
+    bottom: 84px;
+    left:20px;
+}
+.three img{
+    position:absolute;
+    bottom:50px;
+    left:230px;
+}
+.four p{
+    color:gray;
+    position: absolute;
+    bottom: 15px;
+    
+    left:20px;
+}
+.four h4{
+    margin-left:200px;
+    position:absolute;
+    bottom:1px;
+    
+    border:1px solid maroon;
+    background-color: maroon;
+    color:white;
+    padding:8px;
+}
+.stage1 {
+    margin-left:80px;
+    /* margin-bottom: 50px; */
+    position: relative;
+    bottom: 20px;
+}
+.stage1 h2{
+    color:darkslategrey;
+    font-family: 'Times New Roman', Times, serif;
+}
+.stage1 p{
+    position:relative;
+    bottom: 120px;
+    color:maroon;
+    font-size: 18px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.stage1 h5{
+    position: relative;
+    bottom:140px;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    color:darkslategrey;
+}
+.stage1 img{
+    position: relative;
+    bottom: 350px;
+    left:270px;
+    /* width: 40%; */
+}
+.stage1 h4{
+    position: relative;
+    bottom: 200px;
+}
+
+.click{
+    position: relative;
+    top:240px;
+    /* border: 1px solid brown; */
+    /* color: white; */
+    /* background-color: brown; */
+}
+.click img{
+    position: relative;
+    bottom: -1px;
+    left:-25px;
+    /* background-color: brown; */
+}
+.line{
+    border-top:1px solid grey;
+    /* width: 200px; */
+    border-right: 1px solid grey;
+    width: 140px;
+}
+.line1{
+    border: 0.1px solid grey;
+    height: 270px;
+}
+.stage2{
+    position:relative;
+    bottom:20px;
+    left:20px;
+}
+.stage2 h2{
+    font-size:28px;
+    font-family: 'Times New Roman', Times, serif;
+    color:darkslategrey;
+}
+.stage2 h5{
+    position:relative;
+    bottom:80px;
+    font-size:18px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: darkslategrey;
+}
+.stage2 img{
+    position:relative;
+    bottom:190px;
+    left:200px;
+}
+.click2{
+    position:relative;
+    bottom:180px;
+    left:40px;
+}
+.click2 img{
+    position:relative;
+    top:2px;
+    left:-27px;
+    
+}
+.line2{
+    border-top:1px solid grey;
+    position:relative;
+    bottom: 180px;
+    width: 180px;
+}
+/* .line3{ */
+    /* border-top:1px solid grey; */
+    /* position:relative; */
+    /* bottom:160px; */
+    /* width:300px; */
+    /* height: 130px; */
+/* } */
+.heading h2{
+    position:relative;
+    bottom:180px;
+}
+.heading h5{
+    position:relative;
+    bottom:260px;
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.heading img{
+    position:relative;
+    bottom:360px;
+    /* right: 70px; */
+    margin-left:50px;
+
+}
+.dot{
+    position:relative;
+    left:-60px;
+    bottom:177px;
+}
+.line4{
+    border-bottom: 1px solid grey;
+    position: relative;
+    bottom:383px;
+    width: 180px;
+}
+.line5{
+    border-right:2px solid grey;
+    position:relative;
+    height: 280px;
+    top:2px;
+}
+.images{
+    position:relative;
+    left:30px;
+}
+.cert h2{
+    position:relative;
+    left:20px;
+    bottom:15px;
+    color:darkslategrey;
+}
+.cert h5{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    position:relative;
+    left:20px;
+    bottom: 40px;
+    color: darkslategrey;
+}
+.learn img{
+    position:relative;
+    right: 25px;
+}
+.line6{
+    border-top: 1px solid grey;
+    width: 180px;
+    position:relative;
+    bottom:50px;
+    left:170px;
+}
+.learn{
+    position:relative;
+    bottom:50px;
+    left:200px;
+}
+.box1{
+      position: relative;
+      bottom:300px;
+      left:20px;
+      color:darkslategrey;
+      
+}
+.a{
+    border:1px solid gray;
+    background-color: gray;
+    width:270px;
+    height: 80px;
+    position:absolute;
+    top:1090px;
+    bottom: 10px;
+    left:25px;
+    box-shadow: 0px 5px 20px 0px black;
+}
+.a img{
+    width: 10px;
+    height: 80px;
+
+}
+.a h2{
+    /* color:white; */
+    position:relative;
+    bottom:100px;
+    left:20px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color:white;
+}
+.a p{
+    position:relative;
+    bottom:100px;
+    left: 120px;
+    color:white;
+    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif ;
+    
+}
+.pic{
+    /* width:100px; */
+    height: 10px;
+    position:relative;
+    bottom: 300px;
+    left:245px;
+}
+.b{
+    border:1px solid gray;
+    width:270px;
+    height: 80px;
+    background-color: gray;
+    position: relative;
+    bottom:270px;
+    left:18px;
+    /* top: 10px; */
+    color:white;
+    box-shadow: 0px 5px 20px 1px black;
+}
+.b img{
+    width:10px;
+    height: 83px;
+    position:relative;
+    bottom:105px;
+}
+.b h2{
+    font-size: 22px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    position:relative;
+    left: 15px;
+    bottom:10px ;
+}
+.b p{
+    position: relative;
+    left: 120px;
+    bottom: 8px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.pic2{
+    position:relative;
+    bottom:289px;
+    left: 247px;
+    /* /* width: 19px; -- */
+}
+
+.d{
+    border:1px solid gray;
+    position: relative;
+    bottom: 270px;
+    left: 20px;
+    background-color: gray;
+    color:white;
+    width: 270px;
+    height: 80px;
+    box-shadow: 0px 5px 20px 1px black;
+}
+.d h2{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+     position:relative;
+     bottom: 20px;
+     left:20px;
+}
+.d img{
+    width:10px;
+    height: 83px;
+    position:relative;
+    bottom: 109px;
+}
+.d p{
+    position:relative;
+    bottom: 14px;
+    left:120px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.pic3{
+    width: 20px;
+    position: relative;
+    bottom: 290px;
+    left:247px;
+    /* width: 39px; */
+    /* height: 56px; */
+}
+.e{
+    position: relative;
+    bottom: 270px;
+    left: 20px;
+    border: 1px solid gray;
+    background-color: gray;
+    color: white;
+    width: 270px;
+    height: 80px;
+    box-shadow: 0px 5px 20px 1px black;
+}
+.e h2{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    position: relative;
+    bottom: 20px;
+    left: 20px;
+    /* font-size: 15px; */
+}
+.e p{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    position: relative;
+    bottom: 14px;
+    left:120px;
+}
+.e img{
+    width: 10px;
+    height: 83px;
+    position: relative;
+    bottom: 110px;
+}
+.pic4{
+    width: 20px;
+    position: relative;
+    bottom:290px;
+    left: 247px;
+}
+.end{
+    position: relative;
+    bottom: 250px;
+    left: 20px;
+    color:darkslategrey;
+}
+.menu{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color: lightgray;
+    position: relative;
+    bottom: 260px;
+    left:90px;
+}
+.tittle{
+    position: relative;
+    bottom: 1030px;
+    left: 400px;
+    color: darkslategrey;
+}
+.tittle p{
+    font-size: 20px;
+    position: relative;
+    right: -5px;
+    top:10px;
+    /* word-spacing: 10px; */
+}
+.card1{
+    position: relative;
+    bottom: 1300px;
+    left: 1100px;
+}
+.card1 h5{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    color:darkslategrey;
+    position: relative;
+    bottom: 40px;
+}
+.gap1{
+    border-top: 2px solid gray;
+    width: 190px;
+    position: relative;
+    bottom: 1360px;
+    left: 1100px;
+    
+}
+.card2{
+    position:relative;
+    bottom: 1350px;
+    left: 1100px;
+}
+.card2 h5{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    color: darkslategrey;
+    position: relative;
+    bottom: 87px;
+}
+.gap2{
+    border-top: 2px solid gray;
+    width: 190px;
+    position: relative;
+    bottom: 1450px;
+    left:1100px;
+}  
+.card3{
+    position: relative;
+    bottom: 1440px;
+    left:1100px;
+    color:darkslategrey;
+}
+.card3 h5{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    color:darkslategrey;
+    position: relative;
+    bottom: 90px;
+}
+.gap3{
+    border-top: 2px solid gray;
+    width: 190px;
+    position: relative;
+    bottom:1540px;
+    left:1100px;
+}
+.photo{
+    position: relative;
+    bottom:1510px;
+    left:1140px;
+    
+}
+.follow{
+    position: relative;
+    bottom: 1500px;
+    left:1120px;
+    color: darkslategrey;
+}
+.border{
+    position: relative;
+    bottom: 1565px;
+    left:1090px;
+}
+.app{
+    position: relative;
+    bottom: 1560px;
+    left:1120px;
+}
+    
